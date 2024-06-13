@@ -1,0 +1,62 @@
+Ballia|Ballia is a vibrant city in Uttar Pradesh, India, known for its rich cultural heritage and historical significance.
+Chandigarh|Union territory serving as the capital of Punjab and Haryana, famed for its urban planning and architecture by Le Corbusier.
+New Delhi|India's capital city, renowned for its historical landmarks like India Gate, Red Fort, and vibrant markets.
+Jaipur|The Pink City of Rajasthan, famous for its palaces, forts (like Amer Fort), and vibrant culture.
+Varanasi|Oldest living city in the world, a spiritual hub on the banks of the Ganges River, known for its ghats and religious fervor.
+Kanpur|Industrial city in Uttar Pradesh, known for its leather industry and educational institutions.
+Panipat|Known for its historical battles and textile industries, located in Haryana.
+Gorakhpur|Uttar Pradesh city known for Gorakhnath Temple and as a hub for trade and agriculture.
+Mumbai|India's financial capital and entertainment hub, home to Bollywood, bustling markets, and diverse cultures.
+Pune|Maharashtra's cultural capital, renowned for its educational institutions, pleasant climate, and historical sites.
+Nashik|Maharashtra city famous for temples, vineyards, and hosting the Kumbh Mela.
+Kolkata|Cultural capital of India, known for its colonial architecture, literary heritage, and vibrant festivals.
+Chennai|Capital of Tamil Nadu, known for its classical dance, music, temples, and Marina Beach.
+Bangalore|Silicon Valley of India, known for its IT industry, pleasant climate, gardens, and nightlife.
+Lucknow|Capital of Uttar Pradesh, known for its Nawabi culture, cuisine, and historical monuments like Bara Imambara.
+Noida|Uttar Pradesh city known for its modern infrastructure, corporate offices, and residential complexes.
+Gurgaon|Haryana city known for its skyscrapers, shopping malls, and corporate offices.
+Amritsar|Punjab city known for the Golden Temple, a spiritual and cultural landmark of Sikhism.
+Dehradun|Capital of Uttarakhand, known for its picturesque landscapes, educational institutions, and pleasant weather.
+Hyderabad|City of pearls and biryani, known for its rich history, Charminar, IT industry, and Hyderabadi culture.
+Ajmer|Rajasthan city known for Ajmer Sharif Dargah, a major pilgrimage site for Muslims.
+Surat|Gujarat city known for its diamond and textile industries, bustling markets, and historical sites.
+Ahmedabad|Gujarat's largest city, known for Sabarmati Ashram, textile industry, and vibrant festivals like Uttarayan.
+Patna|Bihar's capital city, known for its ancient history, Mahavir Mandir, and Patna Sahib Gurudwara.
+Bhopal|Capital of Madhya Pradesh, known for its lakes, mosques, and the UNESCO-listed Bhimbetka caves.
+Agra|City of the Taj Mahal, a symbol of love and one of the Seven Wonders of the World.
+Meerut|Uttar Pradesh city known for its sports goods industry, historical sites, and educational institutions.
+Rajkot|Gujarat city known for its textile and jewelry industries, as well as historical landmarks.
+Srinagar|Summer capital of Jammu and Kashmir, famous for Dal Lake, houseboats, and Mughal gardens.
+Ranchi|Capital of Jharkhand, known for its scenic beauty, waterfalls, and tribal culture.
+Raipur|Capital of Chhattisgarh, known for its steel industry, temples, and Nandan Van Zoo.
+Kota|Rajasthan city known for its coaching institutes, Kota Doria sarees, and Chambal Garden.
+Mysore|Karnataka city known for its royal heritage, Mysore Palace, silk sarees, and Dasara festival.
+Bareilly|Uttar Pradesh city known for its jhumka manufacturing, Alakhnath Temple, and historical significance.
+Kochi|Kerala city known for its backwaters, Chinese fishing nets, spice markets, and colonial architecture.
+Asansol|West Bengal city known for its coal mines, steel plants, and cultural diversity.
+Udaipur|Rajasthan's city of lakes, known for City Palace, Lake Pichola, and its romantic ambience.
+Bilaspur|Chhattisgarh city known for its rice cultivation, Kanan Pendari Zoo, and historical temples.
+Sikar|Rajasthan city famous for frescoed havelis, grand forts like Fatehpur, and vibrant bazaars.
+Guwahati|Gateway to the Northeast, known for Kamakhya Temple, Brahmaputra River cruises, and tea gardens.
+Indore|Commercial hub of Madhya Pradesh, famed for Rajwada Palace, street food, and cloth markets.
+Vadodara|Cultural capital of Gujarat, known for Laxmi Vilas Palace, Sayaji Baug, and Navratri celebrations.
+Thiruvananthapuram|Capital of Kerala, known for Kovalam Beach, Padmanabhaswamy Temple, and rich cultural heritage.
+Visakhapatnam|Port city of Andhra Pradesh, famous for RK Beach, submarine museum, and scenic Araku Valley.
+Coimbatore|Manchester of South India, known for textile industry, Kovai Kutralam falls, and Marudamalai Temple.
+Jodhpur|Blue City of Rajasthan, famous for Mehrangarh Fort, Umaid Bhawan Palace, and vibrant handicrafts.
+Tiruchirappalli|Ancient city in Tamil Nadu, known for Rock Fort Temple, Kaveri River, and Srirangam Temple.
+Nagpur|Orange City of Maharashtra, known for Deekshabhoomi, oranges, and historic landmarks like Sitabuldi Fort.
+Allahabad|Confluence of the Ganges, Yamuna, and mythical Saraswati rivers, known for Kumbh Mela and Triveni Sangam.
+Guwahati|Gateway to the Northeast, known for Kamakhya Temple, Brahmaputra River cruises, and tea gardens.
+Aurangabad|Maharashtra city famous for Ajanta and Ellora caves, Bibi Ka Maqbara, and silk weaving industry.
+Gwalior|Historic city in Madhya Pradesh, known for Gwalior Fort, Jai Vilas Palace, and Tansen music festival.
+Jabalpur|City in Madhya Pradesh known for Dhuandhar Falls, Marble Rocks, and historic Bhedaghat.
+Aligarh|Uttar Pradesh city known for Aligarh Muslim University, lock manufacturing industry, and Sir Syed House Museum.
+Warangal|Historical city in Telangana known for Warangal Fort, Thousand Pillar Temple, and Kakatiya dynasty architecture.
+Bhubaneswar|Capital of Odisha, known for Lingaraj Temple, Nandankanan Zoo, and Kalinga architecture.
+Cuttack|Historic city in Odisha known for Barabati Fort, silver filigree work, and maritime heritage.
+Siliguri|Gateway to Northeast India, known for tea gardens, Mahananda Wildlife Sanctuary, and views of the Himalayas.
+Durgapur|Steel city in West Bengal, known for Durgapur Barrage, coal mining, and industrial development.
+Dhanbad|Coal capital of India, located in Jharkhand, known for coal mines, Indian School of Mines, and Bhatinda Falls.
+Mathura|Birthplace of Lord Krishna, known for Krishna Janmasthan Temple, Holi celebrations, and Dwarkadhish Temple.
+
