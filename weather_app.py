@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import os
 
-file_path = "/Users/anmolkumarsrivastava/PycharmProjects/beginner_projects/cities.txt"
+file_path = "https://github.com/dArKmOLeS/private-/blob/main/cities.txt"
 
 
 def get_direction(degree):
