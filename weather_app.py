@@ -77,7 +77,7 @@ def get_weather(city):
     url = "http://api.openweathermap.org/data/2.5/weather"
     complete_url = f'{url}?q={city}&appid={api_key}&units=metric'
     response = requests.get(complete_url)
-    process_data(responsen)
+    process_data(response)
 
 
 frontend()
